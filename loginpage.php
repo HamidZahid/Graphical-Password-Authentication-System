@@ -61,7 +61,7 @@ $result = mysqli_query($conn, "SELECT* from user ORDER by id DESC");
 
 
 
-      <p class="forgot-pass">Forgot Password ?</p>
+      <!-- <p class="forgot-pass">Forgot Password ?</p> -->
 
 
 
